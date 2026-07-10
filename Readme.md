@@ -2,6 +2,10 @@
 
 A professionally refactored, production-ready **Content-Based and Popularity-Based Movie Recommendation System** in Python. Features include a dynamic UI built with Streamlit and a robust search utility supporting partial queries, case-insensitivity, and fuzzy typing fallback.
 
+
+
+Live Link : https://movie-recommendation-system-adaqsmv5omy6wnf4dbjree.streamlit.app/
+
 ---
 
 ## 📂 Project Structure
